@@ -421,6 +421,9 @@ header nav i {
   .sixth--screen .sixth--contact--address .sixth--contact .email {
     font-size: 35px;
   }
+  .sixth--screen .sixth--contact--address .sixth--address {
+    padding-bottom: 50px;
+  }
   .sixth--screen .sixth--contact--address .sixth--address .title {
     font-size: 45px;
     font-weight: bold;
@@ -455,7 +458,6 @@ header nav i {
   .sixth--screen .sixth--contact--address {
     display: flex;
     flex-direction: column;
-    padding-left: 50px;
   }
   .sixth--screen .sixth--contact--address .sixth--contact {
     margin-top: 30px;
@@ -469,6 +471,9 @@ header nav i {
   }
   .sixth--screen .sixth--contact--address .sixth--contact .email {
     font-size: 30px;
+  }
+  .sixth--screen .sixth--contact--address .sixth--address {
+    padding-bottom: 50px;
   }
   .sixth--screen .sixth--contact--address .sixth--address .title {
     font-size: 35px;
